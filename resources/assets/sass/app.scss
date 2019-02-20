@@ -7,8 +7,13 @@
 
 // Bootstrap
 //@import '~bootstrap/scss/bootstrap';
+
 // Bulma
 @import "~bulma/bulma";
+
+// Variables
+@import "~font-awesome/scss/font-awesome";
+
 .navbar-laravel {
   background-color: #fff;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04);
